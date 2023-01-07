@@ -7,3 +7,5 @@ link : https://chiranjeev01-1667665380328.hashnode.dev/web-html
 Link : https://chiranjeev01-1667665380328.hashnode.dev/css-flex-box
 # Input Elements In HTML
 Link : https://chiranjeev01-1667665380328.hashnode.dev/input-elements-in-html
+# Audio & Video Tag in HTML
+Link : https://hashnode.com/@chiranjeev01
