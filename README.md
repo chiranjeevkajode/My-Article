@@ -17,3 +17,5 @@ link : https://chiranjeev01-1667665380328.hashnode.dev/css-box-model
 link : https://chiranjeev01-1667665380328.hashnode.dev/media-query
 # CSS Grid
 link : https://chiranjeev01-1667665380328.hashnode.dev/css-grid
+# Arrays in JavaScript
+link : https://chiranjeev01-1667665380328.hashnode.dev/arrays-in-javascript
